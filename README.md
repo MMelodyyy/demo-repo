@@ -3,6 +3,9 @@
  
  Then I do some changes
 
- # Descriptions
+# Descriptions
 
  I want to finish my homework asap!
+
+# Local development
+ 1. Open index.html on your browser
